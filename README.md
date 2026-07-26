@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:101827,65:6C63FF,100:00D9FF&height=230&section=header&text=KAJA%20MOIDEEN%20M%20K&fontSize=56&fontColor=FFFFFF&animation=fadeIn&desc=ERP%20CONTROL%20CENTER%20%C2%B7%20ENTERPRISE%20SYSTEMS%20ENGINEER&descSize=16&descAlignY=76&fontAlignY=44" width="100%" alt="Kaja Moideen M K — ERP Control Center"/>
 
-<h1>KAJA MOIDEEN M K</h1>
+<!-- <h1>KAJA MOIDEEN M K</h1> -->
 
 <h3>React.js &amp; Node.js Developer — AI Engineer</h3>
 
