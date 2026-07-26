@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:101827,65:6C63FF,100:00D9FF&height=230&section=header&text=KAJA%20MOIDEEN%20M%20K&fontSize=56&fontColor=FFFFFF&animation=fadeIn&desc=ERP%20CONTROL%20CENTER%20%C2%B7%20ENTERPRISE%20SYSTEMS%20ENGINEER&descSize=16&descAlignY=76&fontAlignY=44" width="100%" alt="Kaja Moideen M K — ERP Control Center"/>
 
-<!-- <h1>KAJA MOIDEEN M K</h1> -->
+<h1>KAJA MOIDEEN M K</h1>
 
 <h3>React.js &amp; Node.js Developer — AI Engineer</h3>
 
@@ -327,21 +327,19 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats-eta-three-27.vercel.app/api?username=KAJA-IT&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00FFD1&text_color=FFFFFF&ring_color=6C63FF&include_all_commits=true&count_private=true" height="170" alt="activity metrics"/>
-<img src="https://github-readme-stats-eta-three-27.vercel.app/api/top-langs/?username=KAJA-IT&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="170" alt="language distribution"/>
-
-<img src="https://streak-stats.demolab.com?user=KAJA-IT&hide_border=true&background=050816&ring=00D9FF&fire=00FFD1&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=6C63FF&dates=8B92B8" alt="commit continuity"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAJA-IT&bg_color=050816&color=00D9FF&line=6C63FF&point=FFFFFF&area=true&area_color=101827&hide_border=true" width="95%" alt="throughput graph"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAJA-IT&theme=tokyonight&utcOffset=5.5" height="175" alt="productive window"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAJA-IT&theme=tokyonight" height="175" alt="repo distribution"/>
+<img src="https://streak-stats.demolab.com?user=KAJA-IT&hide_border=true&background=050816&ring=00D9FF&fire=00FFD1&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=6C63FF&dates=8B92B8" alt="commit continuity"/>
 
 <h3>CONTRIBUTION TRACE</h3>
 
 <img src="https://raw.githubusercontent.com/KAJA-IT/KAJA-IT/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution trace"/>
 
-<sub>Activity originates primarily from private and organization repositories. The graph reflects throughput, not source visibility.</sub>
+<sub>Commit activity on this account originates from private and organization repositories.<br/>Public language and repository statistics are intentionally omitted — they cannot read enterprise repositories<br/>and would not represent the systems documented above.</sub>
+
+<br/>
+
+<a href="https://github.com/KAJA-MOIDEEN"><img src="https://img.shields.io/badge/PUBLIC%20CODE%20%26%20STATISTICS-@KAJA--MOIDEEN-00D9FF?style=for-the-badge&labelColor=101827"/></a>
 
 </div>
 
